@@ -22,17 +22,27 @@ WorkHive serves as a streamlined platform that connects freelancers with potenti
 ![WhatsApp Image 2024-11-18 at 11 08 19 PM](https://github.com/user-attachments/assets/3c97a1bd-74a3-4aa5-b28c-7b271853d6b1)
 
 2. **User Registration & Authentication**: Allows users to create accounts and log in securely.
+![WhatsApp Image 2024-11-18 at 11 12 12 PM](https://github.com/user-attachments/assets/e378e0e9-eee4-426b-b85b-8824b5cac8d5)
 
 3. **Profile Management**: Enables clients and freelancers to update their profiles and showcase their portfolios.
 ![WhatsApp Image 2024-11-18 at 11 08 19 PM(1)](https://github.com/user-attachments/assets/83a67ad9-67cd-48d6-852d-568134b7e474)
 
 4. **Job Posting and Browsing**: Clients can post jobs, and freelancers can search and apply for jobs.
-![WhatsApp Image 2024-11-18 at 11 08 19 PM(1)](https://github.com/user-attachments/assets/7fa26bac-7f6d-4532-8673-860d77af3b3b)
+![WhatsApp Image 2024-11-18 at 11 08 19 PM(3)](https://github.com/user-attachments/assets/6b3974da-9021-4e96-9f43-03b51bb07bd9)
+![WhatsApp Image 2024-11-18 at 11 08 19 PM(2)](https://github.com/user-attachments/assets/6531c00a-f36d-4b53-b926-25f86f9ae0e1)
 
 5. **Bid Submission**: Freelancers can submit proposals on job postings, including details about their approach and pricing.
+![WhatsApp Image 2024-11-18 at 11 22 58 PM](https://github.com/user-attachments/assets/f55a9896-97f9-4be0-832e-6ec5495614d4)
+
 6. **Project Assignment & Management**: Clients can assign jobs to freelancers, with status updates (Open, Assigned, Completed).
+![WhatsApp Image 2024-11-18 at 11 22 58 PM(1)](https://github.com/user-attachments/assets/1708b661-410e-4573-a0a3-d2b860a05fad)
+
 7. **Portfolio Upload**: Freelancers can upload documents to showcase past work.
+![WhatsApp Image 2024-11-18 at 11 22 58 PM(2)](https://github.com/user-attachments/assets/c875c124-7f99-4550-a868-faa4723d4890)
+
 8. **Review & Rating System**: Clients can rate and review freelancers based on their job performance.
+![WhatsApp Image 2024-11-18 at 11 08 19 PM(4)](https://github.com/user-attachments/assets/6ab7335c-a4bf-435c-b9ba-daeb2456373e)
+
 9. **Role-Based Access Control**: Ensures different access permissions for clients and freelancers.
 
 ## Tech Stack
