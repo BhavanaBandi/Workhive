@@ -18,14 +18,22 @@ DBMS COURSE MINI PROJECT
 WorkHive serves as a streamlined platform that connects freelancers with potential clients in a secure and organized environment. With a focus on a clean user interface and efficient functionalities, WorkHive simplifies the process of job posting, bidding, project management, and review for both freelancers and clients. This project is particularly beneficial for anyone looking to create a freelance marketplace similar to platforms like Fiverr or Upwork.
 
 ## Features
-1. **User Registration & Authentication**: Allows users to create accounts and log in securely.
-2. **Profile Management**: Enables clients and freelancers to update their profiles and showcase their portfolios.
-3. **Job Posting and Browsing**: Clients can post jobs, and freelancers can search and apply for jobs.
-4. **Bid Submission**: Freelancers can submit proposals on job postings, including details about their approach and pricing.
-5. **Project Assignment & Management**: Clients can assign jobs to freelancers, with status updates (Open, Assigned, Completed).
-6. **Portfolio Upload**: Freelancers can upload documents to showcase past work.
-7. **Review & Rating System**: Clients can rate and review freelancers based on their job performance.
-8. **Role-Based Access Control**: Ensures different access permissions for clients and freelancers.
+1. **Dashboard**
+![WhatsApp Image 2024-11-18 at 11 08 19 PM](https://github.com/user-attachments/assets/3c97a1bd-74a3-4aa5-b28c-7b271853d6b1)
+
+2. **User Registration & Authentication**: Allows users to create accounts and log in securely.
+
+3. **Profile Management**: Enables clients and freelancers to update their profiles and showcase their portfolios.
+![WhatsApp Image 2024-11-18 at 11 08 19 PM(1)](https://github.com/user-attachments/assets/83a67ad9-67cd-48d6-852d-568134b7e474)
+
+4. **Job Posting and Browsing**: Clients can post jobs, and freelancers can search and apply for jobs.
+![WhatsApp Image 2024-11-18 at 11 08 19 PM(1)](https://github.com/user-attachments/assets/7fa26bac-7f6d-4532-8673-860d77af3b3b)
+
+5. **Bid Submission**: Freelancers can submit proposals on job postings, including details about their approach and pricing.
+6. **Project Assignment & Management**: Clients can assign jobs to freelancers, with status updates (Open, Assigned, Completed).
+7. **Portfolio Upload**: Freelancers can upload documents to showcase past work.
+8. **Review & Rating System**: Clients can rate and review freelancers based on their job performance.
+9. **Role-Based Access Control**: Ensures different access permissions for clients and freelancers.
 
 ## Tech Stack
 - **Backend**: Node.js, Express.js
