@@ -8,7 +8,7 @@ DBMS COURSE MINI PROJECT
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#usage) 
 - [Database Schema](#database-schema)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
