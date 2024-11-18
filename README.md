@@ -56,7 +56,7 @@ WorkHive serves as a streamlined platform that connects freelancers with potenti
 4. **Environment Variables**:
    Create a `.env` file and add the following:
    ```plaintext
-   DATABASE_URL=<your_mysql_database_url>
+   DATABASE_URL=<your_mysql_database_url> 
    JWT_SECRET=<your_jwt_secret>
    AWS_ACCESS_KEY_ID=<your_aws_access_key>
    AWS_SECRET_ACCESS_KEY=<your_aws_secret_key>
